@@ -1,7 +1,49 @@
-# Vue 3 + Vite
+# Todo Application
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Welcome to Todo Application! 🎉
 
-## Recommended IDE Setup
+## Getting Started
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+To get started with this app, follow these simple steps:
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/hassanpdn/todo-app.git
+    ```
+
+2. **Navigate to the project directory:**
+    ```bash
+    cd todo-app
+    ```
+
+3. **Install dependencies:**
+    ```bash
+    yarn install
+    ```
+
+4. **Run the app in development mode:**
+    ```bash
+    yarn dev
+    ```
+
+Now, your app should be up and running! Open your browser and go to [http://localhost:5173](http://localhost:5173) to view it.
+
+## Additional Commands
+
+- **Build the app for production:**
+    ```bash
+    yarn build
+    ```
+
+- **Start the app in production mode:**
+    ```bash
+    yarn start
+    ```
+
+- **Lint code:**
+    ```bash
+    yarn lint
+    ```
+---
+
+Happy coding! 🚀
